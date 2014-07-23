@@ -1,0 +1,1 @@
+copy "C:\Users\blaze\Documents\Visual Studio 2010\Projects\FromInternet\E140\E14-140\Examples\MicroSoft Visual C++ 6.0\LusbApiCppWrapper\Debug\LusbApiCppWrapper.dll" "C:\Users\blaze\Documents\Visual Studio 2010\Projects\FromInternet\E140\E14-140\Examples\MicroSoft Visual C++ 6.0\LusbApiSharpWrapper\bin\Debug\LusbApiCppWrapper.dll"
