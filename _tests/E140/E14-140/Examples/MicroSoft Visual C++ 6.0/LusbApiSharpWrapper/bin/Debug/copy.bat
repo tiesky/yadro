@@ -1,1 +1,0 @@
-copy "%~dp0..\..\..\LusbApiCppWrapper\Debug\LusbApiCppWrapper.dll" "%~dp0LusbApiCppWrapper.dll"
