@@ -1,4 +1,4 @@
-yadro
+yadro (https://github.com/tiesky/yadro/trunk)
 =====
 
 _bin contains Yadro installations for different OSes
