@@ -1,0 +1,1 @@
+for http(s)://yadroip(:port)/tieskycdn?cmd=webreturn calls only
