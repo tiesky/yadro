@@ -2,4 +2,5 @@
 <Version xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ApplicationVersion>201601071647</ApplicationVersion>
   <MinLoaderVersion>1.0.0.1</MinLoaderVersion>
+  <CurrentLoaderVersion>1.0.0.1</CurrentLoaderVersion>
 </Version>
