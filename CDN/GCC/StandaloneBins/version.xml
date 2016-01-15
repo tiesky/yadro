@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Version xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ApplicationVersion>201601151024</ApplicationVersion>
-  <MinLoaderVersion>1.0.0.2</MinLoaderVersion>
-  <CurrentLoaderVersion>1.0.0.2</CurrentLoaderVersion>
+  <LoaderVersion>1.0.0.2</LoaderVersion>
+  <LoaderContentVersion>1.0.0.2</LoaderContentVersion>
 </Version>
