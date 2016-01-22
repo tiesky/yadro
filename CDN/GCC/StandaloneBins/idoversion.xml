@@ -7,4 +7,5 @@
   <ApplicationFileName>IDoThingsStandalone.exe</ApplicationFileName>
   <LoaderFileName>IDoThingsLoader.exe</LoaderFileName>
   <ApplicationPrefix>ido</ApplicationPrefix>
+  <SplashScreenTextColor>#164194</SplashScreenTextColor>  
 </AppVersion>
