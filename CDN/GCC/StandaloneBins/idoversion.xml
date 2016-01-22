@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AppVersion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ApplicationVersion>201601211705</ApplicationVersion>
-  <LoaderVersion>1.0.0.5</LoaderVersion>
-  <LoaderContentVersion>1.0.0.3</LoaderContentVersion>
+  <ApplicationVersion>201601221605</ApplicationVersion>
+  <LoaderVersion>1.0.0.6</LoaderVersion>
+  <LoaderContentVersion>1.0.0.4</LoaderContentVersion>
   <ApplicationTitle>IDoThings</ApplicationTitle>
-  <ApplicationFileName>IDoThingsStandalone.exe</ApplicationFileName>
+  <ApplicationFileName>IDoThings.exe</ApplicationFileName>
   <LoaderFileName>IDoThingsLoader.exe</LoaderFileName>
   <ApplicationPrefix>ido</ApplicationPrefix>
 </AppVersion>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AppVersion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ApplicationVersion>201601211705</ApplicationVersion>
-  <LoaderVersion>1.0.0.5</LoaderVersion>
-  <LoaderContentVersion>1.0.0.3</LoaderContentVersion>
+  <ApplicationVersion>201601221605</ApplicationVersion>
+  <LoaderVersion>1.0.0.6</LoaderVersion>
+  <LoaderContentVersion>1.0.0.4</LoaderContentVersion>
   <ApplicationTitle>Gps-CarControl</ApplicationTitle>
-  <ApplicationFileName>CarControlStandalone.exe</ApplicationFileName>
-  <LoaderFileName>CarControlStandaloneLoader.exe</LoaderFileName>
+  <ApplicationFileName>Gps-CarControl.exe</ApplicationFileName>
+  <LoaderFileName>Gps-CarControlLoader.exe</LoaderFileName>
   <ApplicationPrefix>gps</ApplicationPrefix>  
 </AppVersion>
