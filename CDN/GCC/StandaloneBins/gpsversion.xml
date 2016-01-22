@@ -6,6 +6,5 @@
   <ApplicationTitle>Gps-CarControl</ApplicationTitle>
   <ApplicationFileName>CarControlStandalone.exe</ApplicationFileName>
   <LoaderFileName>CarControlStandaloneLoader.exe</LoaderFileName>
-  <ApplicationPrefix>gps</ApplicationPrefix>
-  <SplashScreenTextColor>#164194</SplashScreenTextColor>  
+  <ApplicationPrefix>gps</ApplicationPrefix>  
 </AppVersion>

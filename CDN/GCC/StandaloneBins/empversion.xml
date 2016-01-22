@@ -6,6 +6,5 @@
   <ApplicationTitle>employoo</ApplicationTitle>
   <ApplicationFileName>employooStandalone.exe</ApplicationFileName>
   <LoaderFileName>employooLoader.exe</LoaderFileName>
-  <ApplicationPrefix>emp</ApplicationPrefix>
-  <SplashScreenTextColor>#164194</SplashScreenTextColor>  
+  <ApplicationPrefix>emp</ApplicationPrefix>  
 </AppVersion>
