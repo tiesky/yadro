@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AppVersion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ApplicationVersion>201603301335</ApplicationVersion>
+  <ApplicationVersion>201607291010</ApplicationVersion>
   <LoaderVersion>1.0.0.6</LoaderVersion>
-  <LoaderContentVersion>1.0.0.6</LoaderContentVersion>
+  <LoaderContentVersion>1.0.0.7</LoaderContentVersion>
   <ApplicationTitle>employoo</ApplicationTitle>
   <ApplicationFileName>employoo.exe</ApplicationFileName>
   <LoaderFileName>employooLoader.exe</LoaderFileName>
