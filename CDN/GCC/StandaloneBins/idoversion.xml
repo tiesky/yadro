@@ -2,7 +2,7 @@
 <AppVersion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ApplicationVersion>201607291010</ApplicationVersion>
   <LoaderVersion>1.0.0.6</LoaderVersion>
-  <LoaderContentVersion>1.0.0.7</LoaderContentVersion>
+  <LoaderContentVersion>1.0.0.8</LoaderContentVersion>
   <ApplicationTitle>IDoThings</ApplicationTitle>
   <ApplicationFileName>IDoThings.exe</ApplicationFileName>
   <LoaderFileName>IDoThingsLoader.exe</LoaderFileName>
