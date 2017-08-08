@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-16"?>
 <ModuleInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Version>20170807121201</Version>
+  <Version>20170807121202</Version>
   <Description>GccServerInstaller</Description>
   <Name>GccServerInstaller</Name>
   <EntryPointNameSpace>GccServerInstallerModule</EntryPointNameSpace>
