@@ -6,5 +6,5 @@
   <ApplicationTitle>GPS-CarControl Dashboard</ApplicationTitle>
   <ApplicationFileName>Dashboard.exe</ApplicationFileName>
   <LoaderFileName>DashboardLoader.exe</LoaderFileName>
-  <ApplicationPrefix>gps</ApplicationPrefix>  
+  <ApplicationPrefix>dsh</ApplicationPrefix>  
 </AppVersion>
