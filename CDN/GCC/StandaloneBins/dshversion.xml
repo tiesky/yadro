@@ -3,7 +3,7 @@
   <ApplicationVersion>201608111120</ApplicationVersion>
   <LoaderVersion>1.0.0.6</LoaderVersion>
   <LoaderContentVersion>1.0.0.11</LoaderContentVersion>
-  <ApplicationTitle>GPS-CarControl Dashboard</ApplicationTitle>
+  <ApplicationTitle>Dashboard</ApplicationTitle>
   <ApplicationFileName>Dashboard.exe</ApplicationFileName>
   <LoaderFileName>DashboardLoader.exe</LoaderFileName>
   <ApplicationPrefix>dsh</ApplicationPrefix>  
