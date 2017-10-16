@@ -2,7 +2,7 @@
 <AppVersion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ApplicationVersion>201608111120</ApplicationVersion>
   <LoaderVersion>1.0.0.6</LoaderVersion>
-  <LoaderContentVersion>1.0.0.11</LoaderContentVersion>
+  <LoaderContentVersion>1.0.0.12</LoaderContentVersion>
   <ApplicationTitle>Gps-CarControl</ApplicationTitle>
   <ApplicationFileName>Gps-CarControl.exe</ApplicationFileName>
   <LoaderFileName>Gps-CarControlLoader.exe</LoaderFileName>
