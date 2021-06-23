@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppVersion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StandaloneVersion>1.0.0.0</StandaloneVersion>
+  <StandaloneWatcherVersion>1.0.0.0</StandaloneWatcherVersion>
+  <GccModuleVersion>20210620001</GccModuleVersion>
+  <ApplicationVersion>1.0.0.12</ApplicationVersion>
+  <ApplicationPrefix>kks</ApplicationPrefix>
+  <ApplicationTitle>Kemas CarPoint</ApplicationTitle>
+  <ApplicationProcessName>KemasKeySafe</ApplicationProcessName>
+  <ApplicationZipName>KemasKeySafe.zip</ApplicationZipName>
+  <ApplicationFileName>KemasKeySafe.exe</ApplicationFileName>
+</AppVersion>
