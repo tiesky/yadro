@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AppVersion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <StandaloneVersion>1.0.0.2</StandaloneVersion>
-  <StandaloneWatcherVersion>1.0.0.2</StandaloneWatcherVersion>
+  <StandaloneVersion>1.0.0.3</StandaloneVersion>
+  <StandaloneWatcherVersion>1.0.0.3</StandaloneWatcherVersion>
   <GccModuleVersion>202106280001</GccModuleVersion>
   <ApplicationVersion>1.0.0.16</ApplicationVersion>
   <ApplicationPrefix>kks</ApplicationPrefix>
