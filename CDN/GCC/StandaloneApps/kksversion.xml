@@ -3,7 +3,7 @@
   <StandaloneVersion>1.0.0.3</StandaloneVersion>
   <StandaloneWatcherVersion>1.0.0.3</StandaloneWatcherVersion>
   <GccModuleVersion>202106280001</GccModuleVersion>
-  <ApplicationVersion>1.0.0.18</ApplicationVersion>
+  <ApplicationVersion>1.0.0.19</ApplicationVersion>
   <ApplicationPrefix>kks</ApplicationPrefix>
   <ApplicationTitle>Kemas CarPoint</ApplicationTitle>
   <ApplicationProcessName>KemasKeySafe</ApplicationProcessName>
