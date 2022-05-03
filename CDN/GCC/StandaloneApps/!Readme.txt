@@ -4,6 +4,9 @@ Installation:
 *) Download and unpack 
     https://raw.githubusercontent.com/tiesky/yadro/master/CDN/GCC/StandaloneApps/StandaloneApp.zip
 
+*) Update file conf line by setting correct value of AppPrefix:
+    <add key="AppPrefix" value=""/>
+
 *) Run StandaloneApp.exe
     It will create directory with files and subdirectories
     %USERPROFILE%\AppData\Local\S-TEC GmbH\GpsCarControl\Applications\
