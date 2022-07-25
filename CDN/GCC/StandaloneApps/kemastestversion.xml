@@ -3,7 +3,7 @@
   <StandaloneVersion>1.0.0.5</StandaloneVersion>
   <StandaloneWatcherVersion>1.0.0.5</StandaloneWatcherVersion>
   <GccModuleVersion>202106280001</GccModuleVersion>
-  <ApplicationVersion>1.0.0.30</ApplicationVersion>
+  <ApplicationVersion>1.0.0.31</ApplicationVersion>
   <ApplicationPrefix>kemastest</ApplicationPrefix>
   <ApplicationTitle>Kemas Key Safe</ApplicationTitle>
   <ApplicationProcessName>KemasKeySafe</ApplicationProcessName>
