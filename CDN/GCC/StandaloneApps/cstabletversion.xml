@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppVersion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StandaloneVersion>1.0.0.5</StandaloneVersion>
+  <StandaloneWatcherVersion>1.0.0.5</StandaloneWatcherVersion>
+  <GccModuleVersion>202210200001</GccModuleVersion>
+  <ApplicationVersion>1.0.0.5</ApplicationVersion>
+  <ApplicationPrefix>cstablet</ApplicationPrefix>
+  <ApplicationTitle>Customer Service Tablet</ApplicationTitle>
+  <ApplicationProcessName>CsTablet</ApplicationProcessName>
+  <ApplicationZipName>CsTablet.zip</ApplicationZipName>
+  <ApplicationFileName>CsTablet.exe</ApplicationFileName>
+</AppVersion>
