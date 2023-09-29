@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppVersion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StandaloneVersion>1.0.0.6</StandaloneVersion>
+  <StandaloneWatcherVersion>1.0.0.6</StandaloneWatcherVersion>
+  <GccModuleVersion>202309290001</GccModuleVersion>
+  <ApplicationVersion>1.0.0.43</ApplicationVersion>
+  <ApplicationPrefix>kemasdeskotest</ApplicationPrefix>
+  <ApplicationTitle>Kemas Key Safe DESKO</ApplicationTitle>
+  <ApplicationProcessName>KemasKeySafeDESKO</ApplicationProcessName>
+  <ApplicationZipName>KemasKeySafe.DESKO.zip</ApplicationZipName>
+  <ApplicationFileName>KemasKeySafe.DESKO.exe</ApplicationFileName>
+</AppVersion>
