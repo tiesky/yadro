@@ -7,6 +7,6 @@
   <ApplicationPrefix>kemasdeskotest</ApplicationPrefix>
   <ApplicationTitle>Kemas Key Safe DESKO</ApplicationTitle>
   <ApplicationProcessName>KemasKeySafeDESKO</ApplicationProcessName>
-  <ApplicationZipName>KemasKeySafe.DESKO.zip</ApplicationZipName>
-  <ApplicationFileName>KemasKeySafe.DESKO.exe</ApplicationFileName>
+  <ApplicationZipName>KemasKeySafeDESKO.zip</ApplicationZipName>
+  <ApplicationFileName>KemasKeySafeDESKO.exe</ApplicationFileName>
 </AppVersion>
