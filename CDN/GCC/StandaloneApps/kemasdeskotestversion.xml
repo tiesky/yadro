@@ -3,7 +3,7 @@
   <StandaloneVersion>1.0.0.6</StandaloneVersion>
   <StandaloneWatcherVersion>1.0.0.6</StandaloneWatcherVersion>
   <GccModuleVersion>202309290001</GccModuleVersion>
-  <ApplicationVersion>1.0.0.44</ApplicationVersion>
+  <ApplicationVersion>1.0.0.45</ApplicationVersion>
   <ApplicationPrefix>kemasdeskotest</ApplicationPrefix>
   <ApplicationTitle>Kemas Key Safe DESKO</ApplicationTitle>
   <ApplicationProcessName>KemasKeySafeDESKO</ApplicationProcessName>
