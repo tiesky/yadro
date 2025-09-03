@@ -2,8 +2,8 @@
 <AppVersion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <StandaloneVersion>1.0.0.6</StandaloneVersion>
   <StandaloneWatcherVersion>1.0.0.6</StandaloneWatcherVersion>
-  <GccModuleVersion>202508290001</GccModuleVersion>
-  <ApplicationVersion>1.0.0.58</ApplicationVersion>
+  <GccModuleVersion>202509030001</GccModuleVersion>
+  <ApplicationVersion>1.0.0.59</ApplicationVersion>
   <ApplicationPrefix>kemastest</ApplicationPrefix>
   <ApplicationTitle>Kemas Key Safe</ApplicationTitle>
   <ApplicationProcessName>KemasKeySafe</ApplicationProcessName>
